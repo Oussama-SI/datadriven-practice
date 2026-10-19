@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_mink_5612), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-10-19 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-10-19 |
 
 <!-- datadriven:index:end -->
