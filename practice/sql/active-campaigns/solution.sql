@@ -1,5 +1,7 @@
 from pyspark.sql.functions import col, when, round, count, sum, desc
 
+#ad_impressions.show(20)
+
 result = (
   ad_impressions
   .groupBy("ad_campaign")
