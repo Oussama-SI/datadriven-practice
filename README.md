@@ -15,8 +15,9 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 | [Rate Limit Rules Per Endpoint](./practice/sql/rate-limit-rules-per-endpoint) | SQL | Medium | 2026-10-26 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-10-24 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-10-23 |
-| [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-22 |
+| [Active Campaigns](./practice/spark/active-campaigns) | Spark | Easy | 2026-10-23 |
 | [Between the Spaces](./practice/spark/between-the-spaces) | Spark | Medium | 2026-10-22 |
+| [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-22 |
 | [Across the Aisles](./practice/spark/across-the-aisles) | Spark | Hard | 2026-10-22 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-10-22 |
 | [Above Average Product Prices](./practice/spark/above-average-product-prices) | Spark | Medium | 2026-10-19 |
