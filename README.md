@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Loaded Dice](./practice/sql/loaded-dice) | SQL | Hard | 2026-10-27 |
 | [Campaign Click Rate](./practice/sql/campaign-click-rate) | SQL | Medium | 2026-10-27 |
 | [Completion Rate](./practice/sql/completion-rate) | SQL | Medium | 2026-10-26 |
 | [Pipeline Completion Rate](./practice/sql/pipeline-completion-rate) | SQL | Medium | 2026-10-26 |
