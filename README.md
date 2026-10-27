@@ -17,8 +17,9 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-10-23 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-22 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-10-22 |
-| [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-10-19 |
+| [Across the Aisles](./practice/spark/across-the-aisles) | Spark | Hard | 2026-10-22 |
 | [Above Average Product Prices](./practice/spark/above-average-product-prices) | Spark | Medium | 2026-10-19 |
+| [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-10-19 |
 | [Above Average Interactions](./practice/spark/above-average-interactions) | Spark | Easy | 2026-10-19 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-10-19 |
 
