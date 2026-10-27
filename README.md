@@ -16,7 +16,6 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 | [Completion Rate](./practice/sql/completion-rate) | SQL | Medium | 2026-10-26 |
 | [Pipeline Completion Rate](./practice/spark/pipeline-completion-rate) | Spark | Medium | 2026-10-26 |
 | [Rate Limit Rules Per Endpoint](./practice/spark/rate-limit-rules-per-endpoint) | Spark | Medium | 2026-10-26 |
-| [Rate Limit Rules Per Endpoint](./practice/sql/rate-limit-rules-per-endpoint) | SQL | Medium | 2026-10-26 |
 | [Sirens and Smoke](./practice/spark/sirens-and-smoke) | Spark | Easy | 2026-10-24 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-10-24 |
 | [Active Campaigns](./practice/spark/active-campaigns) | Spark | Easy | 2026-10-23 |
