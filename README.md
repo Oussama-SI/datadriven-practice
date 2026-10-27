@@ -1,6 +1,6 @@
-# sandy_mink_5612's data engineering practice
+# de_bourrous's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/sandy_mink_5612), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_mink_5612), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Campaign Click Rate](./practice/sql/campaign-click-rate) | SQL | Medium | 2026-10-27 |
 | [Completion Rate](./practice/sql/completion-rate) | SQL | Medium | 2026-10-26 |
 | [Pipeline Completion Rate](./practice/sql/pipeline-completion-rate) | SQL | Medium | 2026-10-26 |
 | [Rate Limit Rules Per Endpoint](./practice/sql/rate-limit-rules-per-endpoint) | SQL | Medium | 2026-10-26 |
