@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Users With April Transactions](./practice/spark/active-users-with-april-transactions) | Spark | Easy | 2026-10-28 |
 | [Loaded Dice](./practice/spark/loaded-dice) | Spark | Hard | 2026-10-27 |
 | [Campaign Click Rate](./practice/spark/campaign-click-rate) | Spark | Medium | 2026-10-27 |
 | [Completion Rate](./practice/spark/completion-rate) | Spark | Medium | 2026-10-26 |
