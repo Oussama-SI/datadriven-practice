@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tokens With Non-Read Scope Prefix](./practice/spark/tokens-with-non-read-scope-prefix) | Spark | Medium | 2026-10-29 |
 | [Active Users With April Transactions](./practice/spark/active-users-with-april-transactions) | Spark | Easy | 2026-10-28 |
 | [Loaded Dice](./practice/spark/loaded-dice) | Spark | Hard | 2026-10-27 |
 | [Campaign Click Rate](./practice/spark/campaign-click-rate) | Spark | Medium | 2026-10-27 |
