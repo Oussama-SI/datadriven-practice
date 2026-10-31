@@ -8,10 +8,9 @@ users = transactions.select("user_id").distinct()
 
 window = Window.partitionBy("user_id").orderBy("impression_time")
 
-iresult = ad_impressions.join(users, "user_id", "inner")
-
-result = (
-  iresult
+iresult = (
+  ad_impressions
+    .join(users, "user_id", "inner")
   .withColumn("rn", sf.row_number().over(window))
   .filter(sf.col("rn") == 1)
  # .first(sf.col("impression_time").over(window))
