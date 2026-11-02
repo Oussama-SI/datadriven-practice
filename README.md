@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Balance of Arms](./practice/spark/balance-of-arms) | Spark | Hard | 2026-11-02 |
 | [First Interaction Credit](./practice/spark/first-interaction-credit) | Spark | Hard | 2026-10-31 |
 | [Alert Response Breakdown](./practice/spark/alert-response-breakdown) | Spark | Medium | 2026-10-30 |
 | [Tokens With Non-Read Scope Prefix](./practice/spark/tokens-with-non-read-scope-prefix) | Spark | Medium | 2026-10-29 |
