@@ -2,7 +2,7 @@
 
 *Tokens that don't start with 'read'.*
 
-[Spark · Easy · on DataDriven](https://datadriven.io/problems/tokens_with_non_read_scope_prefix)
+[Spark · Medium · on DataDriven](https://datadriven.io/problems/tokens_with_non_read_scope_prefix)
 
 ## How it went
 
