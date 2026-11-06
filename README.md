@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Long Messages](./practice/spark/long-messages) | Spark | Medium | 2026-11-06 |
 | [Active Token Owners in 2026](./practice/spark/active-token-owners-in-year) | Spark | Easy | 2026-11-06 |
 | [Between Worlds](./practice/spark/between-worlds) | Spark | Easy | 2026-11-05 |
 | [Balance of Arms](./practice/spark/balance-of-arms) | Spark | Hard | 2026-11-02 |
