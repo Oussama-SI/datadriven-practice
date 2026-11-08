@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Rating Tiers](./practice/spark/rating-tiers) | Spark | Medium | 2026-11-08 |
 | [Annual Cloud Spend Summary](./practice/spark/annual-cloud-spend-summary) | Spark | Easy | 2026-11-07 |
 | [Long Messages](./practice/spark/long-messages) | Spark | Medium | 2026-11-06 |
 | [Active Token Owners in 2026](./practice/spark/active-token-owners-in-year) | Spark | Easy | 2026-11-06 |
