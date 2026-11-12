@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [30-Day Page View Counts](./practice/spark/30-day-page-view-counts) | Spark | Easy | 2026-11-12 |
 | [Returning Buyers](./practice/spark/returning-buyers) | Spark | Medium | 2026-11-08 |
 | [Rating Tiers](./practice/spark/rating-tiers) | Spark | Medium | 2026-11-08 |
 | [Annual Cloud Spend Summary](./practice/spark/annual-cloud-spend-summary) | Spark | Easy | 2026-11-07 |
