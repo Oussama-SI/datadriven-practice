@@ -2,7 +2,7 @@
 
 *Some commit messages tell a novel.*
 
-[Spark · Medium · on DataDriven](https://datadriven.io/problems/long_messages)
+[Spark · Hard · on DataDriven](https://datadriven.io/problems/long_messages)
 
 ## How it went
 
