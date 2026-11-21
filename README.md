@@ -12,7 +12,7 @@ Scored work from [DataDriven](https://datadriven.io/u/de_bourrous), committed he
 | [Returning Buyers](./practice/spark/returning-buyers) | Spark | Medium | 2026-11-08 |
 | [Rating Tiers](./practice/spark/rating-tiers) | Spark | Medium | 2026-11-08 |
 | [Annual Cloud Spend Summary](./practice/spark/annual-cloud-spend-summary) | Spark | Easy | 2026-11-07 |
-| [Long Messages](./practice/spark/long-messages) | Spark | Hard | 2026-11-06 |
+| [Long Messages](./practice/spark/long-messages) | Spark | Medium | 2026-11-06 |
 | [Active Token Owners in 2026](./practice/spark/active-token-owners-in-year) | Spark | Easy | 2026-11-06 |
 | [Between Worlds](./practice/spark/between-worlds) | Spark | Easy | 2026-11-05 |
 | [Balance of Arms](./practice/spark/balance-of-arms) | Spark | Hard | 2026-11-02 |
