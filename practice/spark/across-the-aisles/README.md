@@ -2,7 +2,7 @@
 
 *The best customers never stay in one aisle.*
 
-[Spark · Hard · on DataDriven](https://datadriven.io/problems/across_the_aisles)
+[Spark · Medium · on DataDriven](https://datadriven.io/problems/across_the_aisles)
 
 ## How it went
 
